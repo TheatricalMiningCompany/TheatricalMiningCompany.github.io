@@ -1,0 +1,19 @@
+/* tmc-styles.css */
+
+<style type="text/css">
+  hr {color:sienna}
+  .headline {color:cyan; font-size:24pt; text-align:center; font-style:italic; font-family:cursive}
+  .pagehead {color:#0000ff; font-size:22pt; text-align:center; font-style:italic; font-weight:800}
+  .bigface {color:white; font-size:18pt; text-align:center; font-style:italic; vertical-align:center}
+  .whiteface {color:white}
+  .textblack10 {color:black; family:Verdana; font-size:10pt}
+  .textblack12 {color:black; family:Verdana; font-size:12pt}
+  .textblack14 {color:black; family:Verdana; font-size:14pt}
+  .blackbox {background-color:black; color:cyan; family:Verdana; font-size:12pt}
+  .tablehead {color:yellow; family:Verdana; font-size:16pt}
+  .subtext {color:#0000ff; text-align:center; font-style:italic; font-size:12pt}
+  .advice (color:yellow; font-style:italic; family:Verdana; font-size:12pt}
+  .answer {color:yellow; font-style:italic; family:Verdana; font-size:12pt; margin-left:50}
+  .likelink {text-decoration:underline}
+  .bpf-link {color:#48dafa; font-size:12pt; text-align:center; font-family:cursive; font-style:italic; vertical-align:center}
+</style>
